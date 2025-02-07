@@ -1,3 +1,6 @@
+/*
+CodeAlpha Internship25, CGPA calculator
+*/
 #include <iostream>
 #include <iomanip>
 #include <vector>
